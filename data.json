@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "username": "John_doe",
+    "account_created_date": "19/07/2021",
+    "photos": [
+      {
+        "id": 1,
+        "url": "photo/1.jpeg",
+        "date": "04/11/2022",
+        "topic": "City A",
+        "comments": "This is the first comment."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Mary_smith",
+    "account_created_date": "23/04/2021",
+    "photos": [
+      {
+        "id": 2,
+        "url": "photo/2.jpeg",
+        "date": "07/07/2023",
+        "topic": "City B",
+        "comments": "Another comment here."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "coolguy87",
+    "account_created_date": "27/03/2020",
+    "photos": [
+      {
+        "id": 3,
+        "url": "photo/3.jpeg",
+        "date": "15/06/2023",
+        "topic": "City C",
+        "comments": "And one more comment."
+      },
+      {
+        "id": 4,
+        "url": "photo/4.jpeg",
+        "date": "05/03/2021",
+        "topic": "City D",
+        "comments": "comment."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "ugiqgdi",
+    "account_created_date": "23/10/2024",
+    "photos": []
+  }
+]
